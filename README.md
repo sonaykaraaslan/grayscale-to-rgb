@@ -8,10 +8,10 @@ A Python-based project to process grayscale images, divide them into sections, a
 ## 🖼️ Visual Overview
 
 ### Input Image
-![Input Image](image-processing/Ders Notları/Data/00398v.jpg)
+![Input Image](image-processing/Ders%20Notları/Data/00398v.jpg)
 
 ### Reconstructed Image
-![Reconstructed Image](image-processing/Ders Notları/new-image.jpg)
+![Reconstructed Image](image-processing/Ders%20Notları/new-image.jpg)
 
 ---
 
